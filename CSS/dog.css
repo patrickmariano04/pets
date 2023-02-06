@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.top{
+    background-color: rgb(0, 195, 220);
+    height: 170px;
+
+}
+
+.navbar{
+    background-color: rgb(250, 150, 0);
+    height: 50px;
+
+}
+
+.logo{
+    margin: 35px;
+    height: 100px;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block   ;
+    line-height: 50px;
+}
+
+ul li a{
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    font-family:Century Gothic;
+    color: white;
+    padding: 0 15px;
+}
+
+ul li a:hover{
+    color: rgb(0, 195, 220);
+}
+
+.bottom{
+    position: absolute;
+    bottom: -1200px;
+    height: 100px;
+    background-color:rgb(0, 195, 220);
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.first {
+    margin: 0;
+    padding: 0;
+    top: 300px;
+    position: absolute;
+    width: 355px;
+    left: 100px;
+    border-style: solid;
+    border-color:black;
+}
+
+.second {
+    margin: 0;
+    padding: 0;
+    top: 300px;
+    position: absolute;
+    width: 336px;
+    left: 500px;
+    border-style: solid;
+    
+}
+
+.third {
+    margin: 0;
+    padding: 0;
+    top: 300px;
+    position: absolute;
+    width: 350px;
+    left: 900px;
+    border-style: solid;
+    
+}
+
+.fourth {
+    margin: 0;
+    padding: 0;
+    top: 650px;
+    position: absolute;
+    width: 355px;
+    left: 100px;
+    border-style: solid;
+    border-color:black;
+}
+
+.fifth {
+    margin: 0;
+    padding: 0;
+    top: 650px;
+    position: absolute;
+    width: 350px;
+    left: 500px;
+    border-style: solid;
+    
+}
+.sixth {
+    margin: 0;
+    padding: 0;
+    top: 650px;
+    position: absolute;
+    width: 340px;
+    left: 900px;
+    border-style: solid;
+    
+}
+
+.seventh {
+    margin: 0;
+    padding: 0;
+    top: 960px;
+    position: absolute;
+    width: 355px;
+    left: 100px;
+    border-style: solid;
+    border-color:black;
+}
+
+.eighth {
+    margin: 0;
+    padding: 0;
+    top: 960px;
+    position: absolute;
+    width: 350px;
+    left: 500px;
+    border-style: solid;   
+}
+
+.nineth {
+    margin: 0;
+    padding: 0;
+    top: 960px;
+    position: absolute;
+    width: 350px;
+    left: 900px;
+    border-style: solid;
+    
+}
+.tenth{
+    margin: 0;
+    padding: 0;
+    top: 1290px;
+    position: absolute;
+    width: 330px;
+    left: 520px;
+    border-style: solid;   
+}
+
+.American {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 110px;
+    top: 530px;
+
+}
+
+.chi {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 570px;
+    top: 530px;
+
+}
+.chow {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 960px;
+    top: 530px;
+
+}
+
+.matian{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 200px;
+    top: 890px;
+}
+
+.ger{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 490px;
+    top: 890px;
+
+}
+
+.chin {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 950px;
+    top: 890px;
+
+}
+.poms{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 170px;
+    top: 1200px;
+}
+
+.poods{
+     font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 620px;
+    top: 1200px;
+}
+
+.rott{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 1000px;
+    top: 1200px;
+}
+
+.tzu{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 620px;
+    top: 1520px;
+}
+
+.quote{
+    float: right;
+    margin-right: 100px;
+    margin-top: 620px;
+    border-radius: 20px;
+    border-style: solid;
+}
+
+.bubble{
+    float: right;
+    margin-top: 20px;
+    margin-right: -320px;
+    width: 300px;
+}
+
+.trivia{
+    position: absolute;
+    margin: 100px;
+    margin-left: 1480px;
+    font-size: 25px;
+}
+.container{
+    position: absolute;
+    font-family: Century Gothic;
+    border: 3px solid;
+    margin-top: 300px;
+    margin-left: 1333px;
+    left: 100px;
+    width: 300px;
+}
+.shihtzu{
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+}

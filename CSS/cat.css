@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+
+}
+
+.top{
+    background-color: rgb(0, 195, 220);
+    height: 170px;
+
+}
+
+.navbar{
+    background-color: rgb(250, 150, 0);
+    height: 50px;
+
+}
+
+.logo{
+    margin: 35px;
+    height: 100px;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block   ;
+    line-height: 50px;
+}
+
+ul li a{
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+    font-family:Century Gothic;
+    color: white;
+    padding: 0 15px;
+}
+
+ul li a:hover{
+    color: rgb(0, 195, 220);
+}
+
+.bottom {
+    position: absolute;
+    bottom: -1200px;
+    height: 100px;
+    background-color:rgb(0, 195, 220);
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.first {
+    margin: 0;
+    padding: 0;
+    top: 320px;
+    position: absolute;
+    width: 355px;
+    left: 100px;
+    border-style: solid;
+    border-color:black;
+}
+
+.second {
+    margin: 0;
+    padding: 0;
+    top: 300px;
+    position: absolute;
+    width: 340px;
+    left: 500px;
+    border-style: solid;
+    
+}
+
+.third {
+    margin: 0;
+    padding: 0;
+    top: 300px;
+    position: absolute;
+    width: 350px;
+    left: 900px;
+    border-style: solid;
+    
+}
+
+.fourth {
+    margin: 0;
+    padding: 0;
+    top: 650px;
+    position: absolute;
+    width: 355px;
+    left: 100px;
+    border-style: solid;
+    border-color:black;
+}
+
+.fifth {
+    margin: 0;
+    padding: 0;
+    top: 650px;
+    position: absolute;
+    width: 350px;
+    left: 500px;
+    border-style: solid;
+    
+}
+.sixth {
+    margin: 0;
+    padding: 0;
+    top: 670px;
+    position: absolute;
+    width: 350px;
+    left: 900px;
+    border-style: solid;
+    
+}
+
+.seventh {
+    margin: 0;
+    padding: 0;
+    top: 960px;
+    position: absolute;
+    width: 355px;
+    left: 100px;
+    border-style: solid;
+    border-color:black;
+}
+
+.eighth {
+    margin: 0;
+    padding: 0;
+    top: 960px;
+    position: absolute;
+    width: 350px;
+    left: 500px;
+    border-style: solid;   
+}
+
+.nineth {
+    margin: 0;
+    padding: 0;
+    top: 960px;
+    position: absolute;
+    width: 350px;
+    left: 900px;
+    border-style: solid;
+    
+}
+.tenth{
+    margin: 0;
+    padding: 0;
+    top: 1290px;
+    position: absolute;
+    width: 250px;
+    left: 580px;
+    border-style: solid;   
+}
+
+.High {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 190px;
+    top: 530px;
+
+}
+
+.Bali {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 600px;
+    top: 530px;
+
+}
+.char {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 990px;
+    top: 530px;
+
+}
+
+.sia {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 180px;
+    top: 890px;
+}
+
+.bob{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 530px;
+    top: 890px;
+
+}
+
+.Lykoi {
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 1020px;
+    top: 890px;
+
+}
+.Coon{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 170px;
+    top: 1200px;
+}
+
+.Ocicat{
+     font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 620px;
+    top: 1200px;
+}
+
+.rag{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 1000px;
+    top: 1200px;
+}
+
+.aby{
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    left: 600px;
+    top: 1570px;
+}

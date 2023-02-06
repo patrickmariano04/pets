@@ -1,0 +1,230 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+
+}
+
+.top{
+  background-color: rgb(0, 195, 220);
+  height: 170px;
+
+}
+
+.navbar{
+  background-color: rgb(250, 150, 0);
+  height: 50px;
+
+}
+
+.logo{
+  margin: 35px;
+  height: 100px;
+}
+
+ul li{
+  list-style: none;
+  display: inline-block   ;
+  line-height: 50px;
+}
+
+ul li a{
+  display: block;
+  text-decoration: none;
+  font-size: 18px;
+  font-family:Century Gothic;
+  color: white;
+  padding: 0 15px;
+}
+
+ul li a:hover{
+  color: rgb(0, 195, 220);
+}
+
+.bottom {
+  position: absolute;
+  bottom: -1500px;
+  height: 100px;
+  background-color:rgb(0, 195, 220);
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+}
+
+.first {
+  top: 350px;
+  position: absolute;
+  width: 300px;
+  left: 200px;
+  border-style: solid;
+  border-color:black;
+}
+
+.second {
+  top: 350px;
+  position: absolute;
+  width: 300px;
+  left: 550px;
+  border-style: solid;
+  
+}
+
+.third {
+  top: 350px;
+  position: absolute;
+  width: 300px;
+  left: 900px;
+  border-style: solid;
+  
+}
+
+.fourth {
+  top: 750px;
+  position: absolute;
+  width: 300px;
+  left: 200px;
+  border-style: solid;
+}
+
+.fifth {
+  top: 750px;
+  position: absolute;
+  width: 300px;
+  left: 550px;
+  border-style: solid;
+ 
+}
+.sixth {
+  top: 750px;
+  position: absolute;
+  width: 300px;
+  left: 900px;
+  border-style: solid;
+}
+
+.seventh {
+  top: 1150px;
+  position: absolute;
+  width: 300px;
+  left: 200px;
+  border-style: solid;
+
+}
+
+.eighth {
+  top: 1150px;
+  position: absolute;
+  width: 300px;
+  left: 550px;
+  border-style: solid;
+
+}
+
+.nineth {
+  top: 1150px;
+  position: absolute;
+  width: 300px;
+  left: 900px;
+  border-style: solid;
+
+}
+.tenth{
+  top: 1550px;
+  position:absolute;
+  width: 300px;
+  left: 550px;
+  border-style: solid;
+  
+}
+
+.mickey {
+  color: black;
+  top: 650px;
+  font-size: 30px;
+  left: 200px ;
+  position: absolute;
+
+}
+
+.guppies {
+  color: black;
+  font-size: 30px;
+  top: 650px;
+  left: 630px;
+  position: absolute;
+
+}
+
+.zebra {
+  color: black;
+  font-size: 30px;
+  top: 650px;
+  left: 890px;
+  position: absolute;
+
+}
+
+.neon{
+  color: black;
+  top: 1070px;
+  font-size: 30px;
+  position: absolute;
+  left: 250px;
+ 
+}
+
+.harlequin{
+  color: black;
+  top: 1070px;
+  font-size: 30px;
+  position: absolute;
+  left: 570px;
+
+}
+
+.serpae {
+  color: black;
+  top: 1070px;
+  position: absolute;
+  font-size: 30px;
+  width: 490px;
+  left: 940px;
+  
+ 
+}
+.panda{
+  color: black;
+  top: 1450px;
+  position: absolute;
+  font-size: 30px;
+  width: 490px;
+  left: 220px;
+}
+
+.glowlight{
+  color: black;
+  top: 1450px;
+  position: absolute;
+  font-size: 30px;
+  width: 490px;
+  left: 570px;
+}
+
+.pea{
+  color: black;
+  top: 1450px;
+  position: absolute;
+  font-size: 30px;
+  width: 490px;
+  left: 950px;
+
+}
+.sword{
+  color: black;
+  top: 1850px;
+  position: absolute;
+  font-size: 30px;
+  width: 490px;
+  left: 620px;
+
+}

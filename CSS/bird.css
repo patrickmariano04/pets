@@ -1,0 +1,87 @@
+.first {
+    top: 350px;
+    position: absolute;
+    width: 300px;
+    left: 200px;
+    border-style: solid;
+    border-color:black;
+}
+  
+.second {
+    top: 350px;
+    position: absolute;
+    width: 300px;
+    left: 550px;
+    border-style: solid;
+    
+}
+  
+.third {
+    top: 350px;
+    position: absolute;
+    width: 300px;
+    left: 900px;
+    border-style: solid;
+    
+}
+  
+.fourth {
+    top: 750px;
+    position: absolute;
+    width: 300px;
+    left: 200px;
+    border-style: solid;
+}
+  
+.fifth {
+    top: 750px;
+    position: absolute;
+    width: 300px;
+    left: 550px;
+    border-style: solid;
+   
+}
+.bud {
+    color: black;
+    top: 690px;
+    font-size: 30px;
+    left: 285px;
+    position: absolute;
+  
+  }
+  
+  .coc {
+    color: black;
+    font-size: 30px;
+    top: 650px;
+    left: 645px;
+    position: absolute;
+  
+  }
+  
+  .dove{
+    color: black;
+    font-size: 30px;
+    top: 600px;
+    left: 1015px;
+    position: absolute;
+  
+  }
+  
+  .lb{
+    color: black;
+    top: 990px;
+    font-size: 30px;
+    position: absolute;
+    left: 285px;
+   
+  }
+  
+  .mb{
+    color: black;
+    top: 990px;
+    font-size: 30px;
+    position: absolute;
+    left: 625px;
+  
+  }
