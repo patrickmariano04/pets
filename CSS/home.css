@@ -65,12 +65,16 @@ ul li a:hover{
 }
 
 .slider{
+
+    margin-top: 5%;
     width: 700px;
     height: 400px;
     overflow: hidden;
     border: 5px solid black;
 }
-
+.text{
+    margin-left: -11%;
+}
 .mid{
     position: absolute;
     top: 70%;
